@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Arth Patel
 - 👀 I’m interested in Graphic Designing.
 - 🌱 I’m currently learning some of the programming languages like C , C++ , HTML/CSS !!
+- Let's try something new !!
 
 
 <!---
